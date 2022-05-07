@@ -39,3 +39,20 @@ p_address {
 .qrcode {
   padding-left: 800px;
 }
+
+.bautizo {
+  padding: 10px 10px 10px 10px;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-family: Poppins;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 0em;
+  text-transform: none;
+  line-height: 1.8em;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  opacity: 1 !important;
+  color: #9c8b7e;
+}
