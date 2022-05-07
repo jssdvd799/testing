@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 2rem;
+  background: #fad18f;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  color: #190101ba;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 50px;
+  color: #190101ba;
+}
+
+p_address {
+  font-size: 0.4em;
+  display: block;
+  color: #1a1502fa;
+  font-family: "Fira Code";
+  text-align: center;
+}
+
+.thadeo_00 {
+  margin-left: 580px;
+  width: 50wh;
+  height: 50vh;
+}
+.thadeo_01 {
+  margin-left: 80px;
+  width: 100wh;
+  height: 100vh;
+}
+
+.qrcode {
+  padding-left: 800px;
+}
